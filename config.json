@@ -1,0 +1,710 @@
+[
+ {
+  "{": "    \"api\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"id\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"worker-id\": null",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"http\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"enabled\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"host\": \"127.0.0.1\"",
+  "Column2": null
+ },
+ {
+  "{": "        \"port\": 0",
+  "Column2": null
+ },
+ {
+  "{": "        \"access-token\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"restricted\": true",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"autosave\": true",
+  "Column2": null
+ },
+ {
+  "{": "    \"background\": false",
+  "Column2": null
+ },
+ {
+  "{": "    \"colors\": true",
+  "Column2": null
+ },
+ {
+  "{": "    \"title\": true",
+  "Column2": null
+ },
+ {
+  "{": "    \"randomx\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"init\": -1",
+  "Column2": null
+ },
+ {
+  "{": "        \"init-avx2\": 0",
+  "Column2": null
+ },
+ {
+  "{": "        \"mode\": \"auto\"",
+  "Column2": null
+ },
+ {
+  "{": "        \"1gb-pages\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"rdmsr\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"wrmsr\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"cache_qos\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"numa\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"scratchpad_prefetch_mode\": 1",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"cpu\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"enabled\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"huge-pages\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"huge-pages-jit\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"hw-aes\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"priority\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"memory-pool\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"yield\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"asm\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"argon2-impl\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"astrobwt-max-size\": 550",
+  "Column2": null
+ },
+ {
+  "{": "        \"astrobwt-avx2\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"argon2\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"astrobwt\": [0",
+  "Column2": " 1]"
+ },
+ {
+  "{": "        \"astrobwt\/v2\": [0",
+  "Column2": " 1]"
+ },
+ {
+  "{": "        \"cn\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [1",
+  "Column2": " 0]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-heavy\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [1",
+  "Column2": " 0]"
+ },
+ {
+  "{": "            [1",
+  "Column2": " 1]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-lite\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [1",
+  "Column2": " 0]"
+ },
+ {
+  "{": "            [1",
+  "Column2": " 1]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-pico\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [2",
+  "Column2": " 0]"
+ },
+ {
+  "{": "            [2",
+  "Column2": " 1]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/2\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [1",
+  "Column2": " 0]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/gpu\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [1",
+  "Column2": " 0]"
+ },
+ {
+  "{": "            [1",
+  "Column2": " 1]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/upx2\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [2",
+  "Column2": " 0]"
+ },
+ {
+  "{": "            [2",
+  "Column2": " 1]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"ghostrider\": [",
+  "Column2": null
+ },
+ {
+  "{": "            [8",
+  "Column2": " 0]"
+ },
+ {
+  "{": "        ]",
+  "Column2": null
+ },
+ {
+  "{": "        \"panthera\": [0]",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-lite\/0\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/0\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/arq\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/keva\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/wow\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/0\": false",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"opencl\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"enabled\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"cache\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"loader\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"platform\": \"AMD\"",
+  "Column2": null
+ },
+ {
+  "{": "        \"adl\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-lite\/0\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/0\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"panthera\": false",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"cuda\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"enabled\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"loader\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"nvml\": true",
+  "Column2": null
+ },
+ {
+  "{": "        \"astrobwt\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-lite\/0\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/0\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"panthera\": false",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"log-file\": null",
+  "Column2": null
+ },
+ {
+  "{": "    \"donate-level\": 0",
+  "Column2": null
+ },
+ {
+  "{": "    \"donate-over-proxy\": 1",
+  "Column2": null
+ },
+ {
+  "{": "    \"pools\": [",
+  "Column2": null
+ },
+ {
+  "{": "        {",
+  "Column2": null
+ },
+ {
+  "{": "            \"algo\": null",
+  "Column2": null
+ },
+ {
+  "{": "            \"coin\": null",
+  "Column2": null
+ },
+ {
+  "{": "            \"url\": \"gulf.moneroocean.stream:10032\"",
+  "Column2": null
+ },
+ {
+  "{": "            \"user\": \"88cGYTA2XaH52MHY1Jj8tH3uERAjYr8xGb4TKc9voNK4gTikeGtWhSi2ujLP1xRP5WKEzPdohVJ4h8z7ij8TVv4AC6UBLju\"",
+  "Column2": null
+ },
+ {
+  "{": "            \"pass\": \"testcode\"",
+  "Column2": null
+ },
+ {
+  "{": "            \"rig-id\": null",
+  "Column2": null
+ },
+ {
+  "{": "            \"nicehash\": false",
+  "Column2": null
+ },
+ {
+  "{": "            \"keepalive\": true",
+  "Column2": null
+ },
+ {
+  "{": "            \"enabled\": true",
+  "Column2": null
+ },
+ {
+  "{": "            \"tls\": false",
+  "Column2": null
+ },
+ {
+  "{": "            \"wss\": false",
+  "Column2": null
+ },
+ {
+  "{": "            \"tls-fingerprint\": null",
+  "Column2": null
+ },
+ {
+  "{": "            \"daemon\": false",
+  "Column2": null
+ },
+ {
+  "{": "            \"socks5\": null",
+  "Column2": null
+ },
+ {
+  "{": "            \"self-select\": null",
+  "Column2": null
+ },
+ {
+  "{": "            \"submit-to-origin\": false",
+  "Column2": null
+ },
+ {
+  "{": "        }",
+  "Column2": null
+ },
+ {
+  "{": "    ]",
+  "Column2": null
+ },
+ {
+  "{": "    \"retries\": 5",
+  "Column2": null
+ },
+ {
+  "{": "    \"retry-pause\": 5",
+  "Column2": null
+ },
+ {
+  "{": "    \"print-time\": 60",
+  "Column2": null
+ },
+ {
+  "{": "    \"health-print-time\": 60",
+  "Column2": null
+ },
+ {
+  "{": "    \"dmi\": true",
+  "Column2": null
+ },
+ {
+  "{": "    \"syslog\": false",
+  "Column2": null
+ },
+ {
+  "{": "    \"tls\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"enabled\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"protocols\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"cert\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"cert_key\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"ciphers\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"ciphersuites\": null",
+  "Column2": null
+ },
+ {
+  "{": "        \"dhparam\": null",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"dns\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"ipv6\": false",
+  "Column2": null
+ },
+ {
+  "{": "        \"ttl\": 30",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"user-agent\": null",
+  "Column2": null
+ },
+ {
+  "{": "    \"verbose\": 0",
+  "Column2": null
+ },
+ {
+  "{": "    \"watch\": true",
+  "Column2": null
+ },
+ {
+  "{": "    \"rebench-algo\": false",
+  "Column2": null
+ },
+ {
+  "{": "    \"bench-algo-time\": 20",
+  "Column2": null
+ },
+ {
+  "{": "    \"algo-min-time\": 0",
+  "Column2": null
+ },
+ {
+  "{": "    \"algo-perf\": {",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/0\": 46.39554434636402",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/1\": 45.56455856045459",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/2\": 45.56455856045459",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/r\": 45.56455856045459",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/fast\": 91.12911712090919",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/half\": 91.12911712090919",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/xao\": 45.56455856045459",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/rto\": 45.56455856045459",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/rwz\": 60.752744747272786",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/zls\": 60.752744747272786",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/double\": 22.782279280227296",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/ccx\": 92.79108869272804",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-lite\/0\": 187.43422437381605",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-lite\/1\": 187.43422437381605",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-heavy\/xhv\": 48.159831756046266",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-pico\": 1302.178718029681",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn-pico\/tlo\": 1302.178718029681",
+  "Column2": null
+ },
+ {
+  "{": "        \"cn\/gpu\": 13.576089244369607",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/0\": 8.037044162805465e-95",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/arq\": 1.9491987595372318e-153",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/graft\": 6.01347001699904e-154",
+  "Column2": null
+ },
+ {
+  "{": "        \"rx\/sfx\": 8.037044162805465e-95",
+  "Column2": null
+ },
+ {
+  "{": "        \"panthera\": 690.5914544306462",
+  "Column2": null
+ },
+ {
+  "{": "        \"argon2\/chukwav2\": 1544.784759499",
+  "Column2": null
+ },
+ {
+  "{": "        \"astrobwt\/v2\": 11309.724268575037",
+  "Column2": null
+ },
+ {
+  "{": "        \"kawpow\": 6.013470016991623e-154",
+  "Column2": null
+ },
+ {
+  "{": "        \"ghostrider\": 162.3383450741247",
+  "Column2": null
+ },
+ {
+  "{": "    }",
+  "Column2": null
+ },
+ {
+  "{": "    \"pause-on-battery\": false",
+  "Column2": null
+ },
+ {
+  "{": "    \"pause-on-active\": false",
+  "Column2": null
+ },
+ {
+  "{": "}",
+  "Column2": null
+ }
+]
